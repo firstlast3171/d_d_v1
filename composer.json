@@ -1,0 +1,18 @@
+{
+    "name": "poles/d_d",
+    "description": "\"D_D\"",
+    "autoload": {
+        "psr-4": {
+            "Poles\\DD\\": "src/",
+            "Helpers\\" : "_classes/Helpers",
+            "Libs\\" : "_classes/Libs"
+           
+        }
+    },
+    "authors": [
+        {
+            "name": "\"BhoneThitKoKo\""
+        }
+    ],
+    "require": {}
+}
